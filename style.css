@@ -6,4 +6,12 @@
 .body
 {
 }
-html {background-color: #e6c97c;}
+html {background-color: #eef0c7;}
+#title
+{
+    font-size: 27pt; 
+}
+#EnterText
+{
+    font-size: 17pt;
+}
