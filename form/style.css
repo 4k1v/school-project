@@ -44,3 +44,15 @@ input[type=text] {
     padding-inline: 60pt;
     margin-top: 40px;
   }
+  #ts1
+  {
+    font-size: 30pt;
+  }
+  #ts2
+  {
+    font-size: 30pt;
+  }
+  #back
+  {
+    font-size: 40pt;
+  }
